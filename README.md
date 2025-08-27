@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @mayankkmauryaa<br>👀 I’m interested in making projects, learn skills.<br>🌱 I’m currently learning Data Structures with Java.<br>💞️ I’m looking to collaborate on startups projects $ MNCs.<br>📫 You can reach me out at =-><br>☕ Buy me a coffee : www.buymeacoffee.com/mayankkmauryaa<br>💸 PayPal me here : https://www.paypal.me/MayankMaurya27105 <br>🔗 Linked_in : www.linkedin.com/in/mayankmaurya01<br>💀 Instagram : www.instagram/mayankkamuryaa <br>😄 Pronouns : he/him<br>⚡ Fun fact : fun funaa funnnnn !
+👋 Hi, I’m @mayankkmauryaa<br>👀 I’m interested in making projects, learn skills.<br>🌱 I’m currently learning Data Structures with Java.<br>💞️ I’m looking to collaborate on startups projects $ MNCs.<br>📫 You can reach me out at =-><br>☕ [Buy me a coffee](www.buymeacoffee.com/mayankkmauryaa)<br>💸 [PayPal](https://www.paypal.me/MayankMaurya27105) <br>🔗 [Linked_in](www.linkedin.com/in/mayankmaurya01) <br>💀 [Instagram](www.instagram/mayankkamuryaa) <br>😄 Pronouns : he/him<br>⚡ Fun fact : fun funaa funnnnn !
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkmauryaa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayankkmauryaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankmaurya01) 
