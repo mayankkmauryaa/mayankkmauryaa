@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m @mayankkmauryaa<br>👀 I’m interested in making projects, learn skills.<br>🌱 I’m currently learning Data Structures with Java.<br>💞️ I’m looking to collaborate on startups projects $ MNCs.<br>📫 You can reach me out at =-><br>☕ 
-<!-- [Buy me a coffee](www.buymeacoffee.com/mayankkmauryaa)<br>💸 
-[PayPal](https://www.paypal.me/MayankMaurya27105) <br>🔗 -->
-[Linked_in](www.linkedin.com/in/mayankmaurya01) <br>💀 
+👋 Hi, I’m @mayankkmauryaa<br>👀 I’m interested in making projects, learn skills.<br>🌱 I’m currently learning Data Structures with Java.<br>💞️ I’m looking to collaborate on startups projects $ MNCs.<br>📫 You can reach me out at =->
+<!-- <br>☕ [Buy me a coffee](www.buymeacoffee.com/mayankkmauryaa)<br>💸 
+[PayPal](https://www.paypal.me/MayankMaurya27105) <br> -->
+🔗[Linked_in](www.linkedin.com/in/mayankmaurya01) <br>💀 
 [Instagram](www.instagram/mayankkamuryaa) <br>😄 
 Pronouns : he/him<br>⚡ Fun fact : fun funaa funnnnn !
 
