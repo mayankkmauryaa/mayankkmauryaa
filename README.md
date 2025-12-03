@@ -6,6 +6,8 @@
 [Instagram](www.instagram/mayankkamuryaa) <br>😄 
 Pronouns : he/him<br>⚡ Fun fact : fun funaa funnnnn !
 
+<img src="https://raw.githubusercontent.com/mayankkmauryaa/mayankkmauryaa/output/snake.svg" alt="Snake animation" />
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkmauryaa)](https://github.com/anuraghazra/github-readme-stats)-->
