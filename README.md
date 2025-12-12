@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mayankmaurya.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mayankmaurya.vercel.app/)
 
 - 💬 Ask me about **DSA**
 
