@@ -1,77 +1,211 @@
-<h1 align="center">Hi 👋, I'm Mayank Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+
+# Hi 👋, I'm Mayank Maurya
+
+### 💻 Full-Stack Developer 🧠 Problem Solver 🚀 GenAI Enthusiast 📈 DSA Practitioner
+
+<p>📍 India</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=650%2B+Problems+Solved+on+LeetCode+%26+GFG;Full+Stack+Developer+(MERN+%7C+Next.js);Google+Cloud+%26+GenAI+Certified;Building+Scalable+Applications;Always+Learning%2C+Always+Shipping" />
+
+</div>
 
 ---
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=mayankkmauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="mayankkmauryaa" /> </p>
+Know about my experiences [**Resume |**](https://drive.google.com/file/d/1Qc2_gD-mK542P1OuM3F6O8-tOsG_t9qQ/view?usp=sharing)
+[**Portfolio**](https://mayankmaurya.vercel.app)
 
-- 🌱 I’m currently learning **Frontend**
+## 🏆 Achievements
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mayankmaurya.vercel.app/)
+- ✅ Solved **650+ DSA Problems** across
+  **[LeetCode |](https://leetcode.com/u/mayankkmauryaa/)**
+  **[GeeksforGeeks |](https://auth.geeksforgeeks.org/user/hpmayankqrh2)**
+  **[CodeChef |](https://www.codechef.com/users/mayankmaurya)**
+  **[Codeforces](https://codeforces.com/profile/hpmayankmaurya)**
 
-- 💬 Ask me about **DSA**
+- 🥇 Completed **Meta Front-End Developer** Professional Certificate
+- 🛠️ Built **GaadiWala**, a full-stack urban mobility platform
+- 🌱 Completed **10+ Industry Job Simulations** (Goldman Sachs, AWS, JPMC)
+
+---
+
+## 🧰 Tech Stack
+
+<table align="center" width="100%" style="max-width: 950px; text-align: center;">
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Web Development</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TypeScript.svg"
+ height="50" title="TypeScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg" height="50" title="Next.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🧠 AI & Gen AI</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/GCP-Light.svg" height="50" title="Google Cloud" /></td>
+<td><img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="50" width="50" title="n8n Automation" />
+</td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
+<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORErObBxZDkalSzwN8UaUF68IUdptQoN6Hw&s" height="50" width="50" title="Prompt Engineering" />
+</td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Cloud</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" title="FastAPI" /></td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Core Languages</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+ height="50" title="C" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
+</tr>
+
+</table>
+
+---
+
+## 🔗 Connect with Me
+
+<table align =center>
+<tr>
+<td width="65%" align="center">
+<img src="cart.gif" alt="Coding Dev" width="100%" />
+</td>
+<td align="center" style="
+padding: 20px;
+background:
+repeating-linear-gradient(90deg, #4CAF50, #4CAF50 40px, #388E3C 40px, #388E3C 42px),
+repeating-linear-gradient(0deg, #4CAF50, #4CAF50 40px, #388E3C 40px, #388E3C 42px);
+background-size: 42px 42px;
+border-radius: 12px;
+box-shadow: 0 0 10px rgba(0,0,0,0.2);
+">
+<div style="margin-bottom: 10px;">
+<a href="mailto:hpmayankmaurya@gmail.com" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">Gmail</span>
+</a>
+</div>
+<div style="margin-bottom: 10px;">
+<a href="https://www.linkedin.com/in/mayankmaurya05" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">LinkedIn</span>
+</a>
+</div>
+<div style="margin-bottom: 10px;">
+<a href="https://leetcode.com/u/mayankkmauryaa" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">LeetCode</span>
+</a>
+</div>
+<div>
+<a href="https://mayankmaurya.vercel.app" target="_blank" style="margin: 4px; display: inline-block;">
+<span style="color:white;font-weight:bold;">Portfolio</span>
+
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+<h3>🧠 Competitive Programming Profiles</h3>
+
+<p align="center">
+<a href="https://www.codechef.com/users/mayankmaurya">CodeChef |</a>
+<a href="https://codeforces.com/profile/hpmayankmaurya">Codeforces |</a>
+<a href="https://www.hackerrank.com/hpmayankmaurya">HackerRank |</a>
+<a href="https://auth.geeksforgeeks.org/user/hpmayankqrh2">GeeksforGeeks |</a>
+<a href="https://codepen.io/mayank-maurya-the-solid">CodePen |</a>
+<a href="https://codesandbox.com/mayankkmauryaa">CodeSandbox</a>
+</p>
+
+## 🚀 My Dev Playground
+
+<div align="center">
+
+### LeetCode Performance
+
+<img src="https://leetcard.jacoblin.cool/mayankkmauryaa?theme=transparent&ext=heatmap" width="60%" />
+
+---
+
+## 🌱 Currently Learning
+
+- Frontend Performance Optimization & Design Systems
+- Advanced MERN Stack & Next.js 15
+- Workflow Automation (n8n) & AI Agent Integration
+
+---
+
+## 💡 I’m Looking to Collaborate On
+
+- DSA-driven platforms & Competitive Programming tools
+- Open-source Full-Stack & GenAI projects
+- Performance Analytics & Automation Tools
+- Innovative Urban Mobility solutions
+
+---
+
+## 📈 GITHUB ANALYTICS
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkmauryaa&theme=algolia&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mayankkmauryaa&show_icons=true&theme=algolia&hide_border=true&border_radius=10&include_all_commits=true" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankkmauryaa&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkmauryaa&layout=compact&theme=algolia&hide_border=true&border_radius=10&langs_count=8" width="49%" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayankkmauryaa&theme=algolia&utcOffset=5.5" width="49%" />
+
+</div>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+- 🚗 [GaadiWala](https://gaadiwala-app.firebaseapp.com/) – Production-grade mobility ecosystem for ride hailing and logistics.
+- 📊 [Rankers](https://rankers-zeta.vercel.app/) – Performance analytics system processing 10k+ LeetCode submissions.
+- 🤖 [APRI](https://apri-beige.vercel.app/login) – AI-powered Resume Analysis & Role Recommendation system.
+- 🛠️ [DevsLane Training](https://drive.google.com/file/d/1WH8cshRpb_vTbg2SybeUYRa4kSiZ-fsQ/view) – Built production-ready frontend components using React.
+
+---
+
+## 📬 Let’s Connect
+
+💡 Always open for collaboration and interesting project ideas!
 
 - 📫 How to reach me **hpmayankmaurya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Qc2_gD-mK542P1OuM3F6O8-tOsG_t9qQ/view?usp=sharing)
-
-## <h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://codepen.io/mayank-maurya-the-solid" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mayank-maurya-the-solid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayankmaurya05" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankmaurya05" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mayankkmauryaa" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mayankkmauryaa" height="30" width="40" /></a>
-<a href="https://fb.com/mayankkmauryaa" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayankkmauryaa" height="30" width="40" /></a>
-<a href="https://instagram.com/mayankkmauryaa" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankkmauryaa" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mayankmaurya" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayankmaurya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hpmayankmaurya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hpmayankmaurya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hpmayankmaurya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hpmayankmaurya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayankkmauryaa" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankkmauryaa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hpmayankqrh2" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hpmayankqrh2" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayankkmauryaa&label=FANS&color=blue&style=flat" alt="programmerbeast2004 Profile Views" />
 </p>
 
----
+<p align="center"><a href="https://www.buymeacoffee.com/mayankkmauryaa"> 
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mayankkmauryaa" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<!-- Footer Wave -->
+<p align="center">
+  <img src="ban.png" width="100%" />
 </p>
-
----
-
-<h3 align="left">Github: </h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=mayankkmauryaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<p>
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkmauryaa" alt="mayankkmauryaa" /></p> -->
-
-<h3 align="left">Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/mayankkmauryaa"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mayankkmauryaa" /></a></p>
